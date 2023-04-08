@@ -1,7 +1,7 @@
 html,
 body {
-    color: white;
-    background-color: rgb(78, 78, 78);
+    color: black;
+    background-color: #ffffff;
     text-align: center;
     font-family: Consolas, monospace;
     height: 100%;
@@ -21,7 +21,7 @@ body {
 
 #preview {
     box-shadow: 0px 0px 30px black;
-    height: 610px;
+    height: 590px;
     width: 100%;
     background: #fff;
     background-image: linear-gradient(to right, #ffffff, #000000);
