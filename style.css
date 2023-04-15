@@ -21,7 +21,7 @@ body {
 
 #preview {
     box-shadow: 0px 0px 5px black;
-    height: 590px;
+    height: 550px;
     width: 100%;
     background: #fff;
     background-image: linear-gradient(to right, #ffffff, #000000);
